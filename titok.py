@@ -1,0 +1,2 @@
+print("Titkos")
+print("Megtitkosabb")
